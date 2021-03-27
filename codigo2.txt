@@ -1,9 +1,6 @@
-hola mundo2
-hola mundo2
-hola mundo2
-hola mundo2
-hola mundo2
-hola mundo2
-hola mundo2
-hola mundo2
-hola mundo2
+git switch {rama}
+git branch
+git status
+git add .
+git commit -m {comment}
+git push

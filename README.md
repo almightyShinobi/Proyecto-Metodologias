@@ -59,7 +59,7 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre el Proyecto</a>
+      <a href="#sobre-el-proyecto">Sobre el Proyecto</a>
       <ul>
         <li><a href="#built-with">Construido con</a></li>
       </ul>

@@ -23,7 +23,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -85,10 +85,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
+Para el desarrollo del proyecto se creara una pagina web de Patagonia Software con caracteristicas e informacion relevante del productoen en desarrollo y asi capturar el interes de quienes lleguen al sitio web.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
 ### Construido con:

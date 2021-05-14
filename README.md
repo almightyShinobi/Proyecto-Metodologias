@@ -41,7 +41,7 @@
   <p align="center">
     Pagina web de Patagonia Software como scroll, simple y eficiente.
     <br />
-    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias"><strong>Explore los documentos »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>

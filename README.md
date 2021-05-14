@@ -93,7 +93,7 @@ Here's a blank template to get started:
 
 ### Construido con:
 
-* [](Bootstrap)
+* [Bootstrap]()
 * []()
 * []()
 

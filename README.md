@@ -39,7 +39,7 @@
   <h3 align="center">Control 1</h3>
 
   <p align="center">
-    project_description
+    Pagina web de Patagonia Software como scroll, simple y eficiente.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />

@@ -44,11 +44,11 @@
     <a href="https://github.com/almightyShinobi/Proyecto-Metodologias"><strong>Explore los documentos »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias">View Demo</a>
+    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias">Ver Demo</a>
     ·
-    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias/issues">Report Bug</a>
+    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias/issues">Request Feature</a>
+    <a href="https://github.com/almightyShinobi/Proyecto-Metodologias/issues">Solicitar Funcion</a>
   </p>
 </p>
 

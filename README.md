@@ -68,7 +68,7 @@
       <a href="#getting-started">Empezando</a>
       <ul>
         <li><a href="#prerequisites">Prerequisitos</a></li>
-        <li><a href="#installation">Instacion</a></li>
+        <li><a href="#installation">Instalacion</a></li>
       </ul>
     </li>
     <li><a href="#usage">Uso</a></li>

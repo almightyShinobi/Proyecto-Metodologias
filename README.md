@@ -97,7 +97,7 @@ Para el desarrollo del proyecto se creara una pagina web de Patagonia Software c
 
 <!-- GETTING STARTED -->
 ## Empezando
-Para ingresar al sitio dirijase al siguiente link https://almightyshinobi.github.io/Proyecto-Metodologias/
+Para ingresar al sitio diríjase al siguiente link https://almightyshinobi.github.io/Proyecto-Metodologias/
 
 ### Intalación
 Para obtener una copia local en funcionamiento, siga estos sencillos pasos.

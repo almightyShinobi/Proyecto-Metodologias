@@ -118,7 +118,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Nuestro equipo
 
 
-* Italo Molina - Scrum Master 
+* Italo Molina - Srum Master 
 * Sebastián Racaman - Desarrollador
 * Alex Soto - Desarrollador
 * Italo Ercoli - Desarrollador
@@ -128,13 +128,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Planificación general del proyecto
 
 | Cronograma                            | Viernes 14/05/21 | Sábado 15/05/21 |
-|------------                           |------------------|-----------------|
-| Subida de docuemntación basica inicial|                  |                 |
-|                                       |                  |                 |
-|                                       |                  |                 |
-|                                       |                  |                 |
-|                                       |                  |                 |
-
+|---------------------------------------|------------------|-----------------|
+| Subida de docuemntación basica inicial|        ✓         |                 |
+| Crear pagina web patagonia sofware    |        ✓         |                 |
+| Desarrollo visual de pagina web       |                  |                 |
+| Vista e ingreso a secciones de interes|                  |                 |
+| Aplicar Estilos CSS                   |                  |                 |
+| Identificacion del proyecto           |                  |                 |
+| Subida de documentacion basica inicial|                  |                 |
+| Crear diseño de inicio de sesion      |                  
 <!-- ROADMAP -->
 ## Roadmap
 

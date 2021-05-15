@@ -131,12 +131,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 |---------------------------------------|------------------|-----------------|
 | Subida de documentación basica inicial|        ✓         |                 |
 | Crear pagina web patagonia sofware    |        ✓         |                 |
-| Desarrollo visual de pagina web       |                  |                 |
-| Vista e ingreso a secciones de interes|                  |                 |
-| Aplicar Estilos CSS                   |                  |                 |
-| Identificacion del proyecto           |                  |                 |
-| Subida de documentacion basica inicial|                  |                 |
-| Crear diseño de inicio de sesion      |                  
+| Desarrollo visual de pagina web       |        ✓         |                 |
+| Vista e ingreso a secciones de interes|                  |        ✓        |
+| Aplicar Estilos CSS                   |                  |        ✓        |
+| Identificacion del proyecto           |        ✓         |                 |
+| Subida de documentacion basica inicial|        ✓         |                 |
+| Crear diseño de inicio de sesion      |                  |        ✓
 <!-- ROADMAP -->
 ## Roadmap
 

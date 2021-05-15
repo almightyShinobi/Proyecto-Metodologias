@@ -92,8 +92,6 @@ Para el desarrollo del proyecto se creara una pagina web de Patagonia Software c
 ### Construido con:
 
 * [Bootstrap]()
-* []()
-* []()
 
 
 

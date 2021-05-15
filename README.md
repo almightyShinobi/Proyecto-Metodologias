@@ -67,8 +67,7 @@
     <li>
       <a href="#empezando">Empezando</a>
       <ul>
-        <li><a href="#prerequisitos">Prerequisitos</a></li>
-        <li><a href="#Instalación">Instalación</a></li>
+        <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
@@ -99,7 +98,7 @@ Para el desarrollo del proyecto se creara una pagina web de Patagonia Software c
 ## Empezando
 Para ingresar al sitio diríjase al siguiente link https://almightyshinobi.github.io/Proyecto-Metodologias/
 
-### Intalación
+### Instalación
 Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 
 1. Clonar el repositorio

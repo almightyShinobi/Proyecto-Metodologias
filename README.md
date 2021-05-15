@@ -105,6 +105,7 @@ Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 1. Clonar el repositorio
    ```sh
    git clone https://github.com/almightyShinobi/Proyecto-Metodologias
+2. abre el archivo 'index.html' dentro de la carpeta 'Proyecto-Metodologias'.
 
 <!-- USAGE EXAMPLES -->
 ## Uso

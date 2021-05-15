@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 | Cronograma                            | Viernes 14/05/21 | Sábado 15/05/21 |
 |---------------------------------------|------------------|-----------------|
-| Subida de docuemntación basica inicial|        ✓         |                 |
+| Subida de documentación basica inicial|        ✓         |                 |
 | Crear pagina web patagonia sofware    |        ✓         |                 |
 | Desarrollo visual de pagina web       |                  |                 |
 | Vista e ingreso a secciones de interes|                  |                 |

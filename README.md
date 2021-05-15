@@ -118,11 +118,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Nuestro equipo
 
 
-* Italo Molina - Srum Master 
-* Sebastián Racaman - Desarrollador
-* Alex Soto - Desarrollador
-* Italo Ercoli - Desarrollador
-* Franklin Godoy - Product Owner
+* Italo Molina - Full-Stack Designer (Scrum Master) 
+* Sebastián Racaman - Full-Stack Designer
+* Alex Soto - Full-Stack Designer
+* Italo Ercoli - Full-Stack Designer
+* Franklin Godoy - Full-Stack Designer (Product Owner)
 
 
 ## Planificación general del proyecto

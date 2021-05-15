@@ -133,7 +133,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-Ver en [Tablero control 1](https://github.com/github_username/repo_name/issues) para la lista de hitos a realizar.
+Ver en [Tablero control 1](https://github.com/almightyShinobi/Proyecto-Metodologias/projects/1) para la lista de hitos a realizar.
 
 
 

@@ -127,13 +127,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Planificación general del proyecto
 
-| Cronograma | Viernes 14/05/21 | Sabado 15/05/21 |
-|------------|------------------|-----------------|
-| su         |                  |                 |
-|            |                  |                 |
-|            |                  |                 |
-|            |                  |                 |
-|            |                  |                 |
+| Cronograma                            | Viernes 14/05/21 | Sábado 15/05/21 |
+|------------                           |------------------|-----------------|
+| Subida de docuemntación basica inicial|                  |                 |
+|                                       |                  |                 |
+|                                       |                  |                 |
+|                                       |                  |                 |
+|                                       |                  |                 |
 
 <!-- ROADMAP -->
 ## Roadmap

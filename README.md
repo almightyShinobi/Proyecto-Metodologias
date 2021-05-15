@@ -71,6 +71,8 @@
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
+    <li><a href="#nuestro-equipo">Nuestro equipo</a></li>
+    <li><a href="#planificación-general-del-proyecto">Planificación general del proyecto</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#Contribuciones">Contribuciones</a></li>
     <li><a href="#licencia">Licencia</a></li>
@@ -104,7 +106,7 @@ Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 1. Clonar el repositorio
    ```sh
    git clone https://github.com/almightyShinobi/Proyecto-Metodologias
-2. abre el archivo 'index.html' dentro de la carpeta 'Proyecto-Metodologias'.
+2. Abre el archivo 'index.html' dentro de la carpeta 'Proyecto-Metodologias'.
 
 <!-- USAGE EXAMPLES -->
 ## Uso
@@ -113,7 +115,17 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+## Nuestro equipo
 
+
+* Italo Molina - Srum Master 
+* Sebastián Racaman - Desarrollador
+* Alex Soto - Desarrollador
+* Italo Ercoli - Desarrollador
+* Franklin Godoy - Product Owner
+
+
+## Planificación general del proyecto
 
 <!-- ROADMAP -->
 ## Roadmap

@@ -100,14 +100,6 @@ Para el desarrollo del proyecto se creara una pagina web de Patagonia Software c
 
 Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 
-### Prerequisitos
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Intalación
 
 1. Clonar el repositorio

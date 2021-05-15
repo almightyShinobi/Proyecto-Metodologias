@@ -118,7 +118,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Nuestro equipo
 
 
-* Italo Molina - Srum Master 
+* Italo Molina - Scrum Master 
 * Sebastián Racaman - Desarrollador
 * Alex Soto - Desarrollador
 * Italo Ercoli - Desarrollador

@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
-Para el desarrollo del proyecto se creara una pagina web de Patagonia Software con caracteristicas e informacion relevante del productoen en desarrollo y asi capturar el interes de quienes lleguen al sitio web.
+Para el desarrollo del proyecto se creara una pagina web de Patagonia Software con caracteristicas e información relevante del productoen en desarrollo y asi capturar el interes de quienes lleguen al sitio web.
 
 
 

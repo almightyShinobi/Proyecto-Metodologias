@@ -98,7 +98,7 @@ Para el desarrollo del proyecto se creara una pagina web de Patagonia Software c
 <!-- GETTING STARTED -->
 ## Empezando
 
-To get a local copy up and running follow these simple steps.
+Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 
 ### Prerequisitos
 
@@ -110,16 +110,9 @@ This is an example of how to list things you need to use the software and how to
 
 ### Intalación
 
-1. Clone the repo
+1. Clonar el repositorio
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
+   git clone https://github.com/almightyShinobi/Proyecto-Metodologias
 
 <!-- USAGE EXAMPLES -->
 ## Uso

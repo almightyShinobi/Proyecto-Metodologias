@@ -124,6 +124,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 * Italo Ercoli - Full-Stack Designer
 * Franklin Godoy - Full-Stack Designer (Product Owner)
 
+Consultar en [Tabla](https://github.com/almightyShinobi/Proyecto-Metodologias/projects/1)) lista de responsabilidades. 
+
 
 ## Planificación general del proyecto
 

@@ -51,7 +51,7 @@
 
 <!-- Tabla de Contenidos -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
     <li>
       <a href="#sobre-el-proyecto">Sobre el Proyecto</a>
@@ -65,11 +65,9 @@
         <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#uso">Uso</a></li>
     <li><a href="#nuestro-equipo">Nuestro equipo</a></li>
     <li><a href="#planificación-general-del-proyecto">Planificación general del proyecto</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#Contribuciones">Contribuciones</a></li>
   </ol>
 </details>
 

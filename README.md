@@ -67,11 +67,12 @@
     <li>
       <a href="#empezando">Empezando</a>
       <ul>
-        <li><a href="#prerequisitos">Prerequisitos</a></li>
-        <li><a href="#Instalación">Instalación</a></li>
+        <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
+    <li><a href="#nuestro-equipo">Nuestro equipo</a></li>
+    <li><a href="#planificación-general-del-proyecto">Planificación general del proyecto</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#Contribuciones">Contribuciones</a></li>
     <li><a href="#licencia">Licencia</a></li>
@@ -85,43 +86,27 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
-Para el desarrollo del proyecto se creara una pagina web de Patagonia Software con caracteristicas e informacion relevante del productoen en desarrollo y asi capturar el interes de quienes lleguen al sitio web.
+Para el desarrollo del proyecto se creara una pagina web de Patagonia Software con caracteristicas e información relevante del productoen en desarrollo y asi capturar el interes de quienes lleguen al sitio web.
 
 
 
-### Construido con:
+### Frameworks utilizados:
 
 * [Bootstrap]()
-* []()
-* []()
 
 
 
 <!-- GETTING STARTED -->
 ## Empezando
+Para ingresar al sitio diríjase al siguiente link https://almightyshinobi.github.io/Proyecto-Metodologias/
 
-To get a local copy up and running follow these simple steps.
+### Instalación
+Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 
-### Prerequisitos
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Intalación
-
-1. Clone the repo
+1. Clonar el repositorio
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
+   git clone https://github.com/almightyShinobi/Proyecto-Metodologias
+2. Abre el archivo 'index.html' dentro de la carpeta 'Proyecto-Metodologias'.
 
 <!-- USAGE EXAMPLES -->
 ## Uso
@@ -130,12 +115,34 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+## Nuestro equipo
 
 
+* Italo Molina - Full-Stack Designer (Scrum Master) 
+* Sebastián Racaman - Full-Stack Designer
+* Alex Soto - Full-Stack Designer
+* Italo Ercoli - Full-Stack Designer
+* Franklin Godoy - Full-Stack Designer (Product Owner)
+
+Consultar en [Tabla](https://github.com/almightyShinobi/Proyecto-Metodologias/projects/1) lista de responsabilidades. 
+
+
+## Planificación general del proyecto
+
+| Cronograma                            | Viernes 14/05/21 | Sábado 15/05/21 |
+|---------------------------------------|------------------|-----------------|
+| Subida de documentación basica inicial|        ✓         |                 |
+| Crear pagina web patagonia sofware    |        ✓         |                 |
+| Desarrollo visual de pagina web       |        ✓         |                 |
+| Vista e ingreso a secciones de interes|                  |        ✓        |
+| Aplicar Estilos CSS                   |                  |        ✓        |
+| Identificacion del proyecto           |        ✓         |                 |
+| Subida de documentacion basica inicial|        ✓         |                 |
+| Crear diseño de inicio de sesion      |                  |        ✓
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+Ver en [Tablero control 1](https://github.com/almightyShinobi/Proyecto-Metodologias/projects/1) para la lista de hitos a realizar.
 
 
 

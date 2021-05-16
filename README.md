@@ -56,7 +56,7 @@
     <li>
       <a href="#sobre-el-proyecto">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#construido-con">Construido con</a></li>
+        <li><a href="#Frameworks-utilizados">Frameworks utilizado</a></li>
       </ul>
     </li>
     <li>

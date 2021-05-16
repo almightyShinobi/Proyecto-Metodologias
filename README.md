@@ -62,7 +62,7 @@
     <li>
       <a href="#empezando">Empezando</a>
       <ul>
-        <li><a href="#instalación">Instalación</a></li>
+        <li><a href="#instalación-y-uso">Instalación y Uso</a></li>
       </ul>
     </li>
     <li><a href="#nuestro-equipo">Nuestro equipo</a></li>
@@ -108,6 +108,7 @@ Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 * Alex Soto - Full-Stack Designer
 * Italo Ercoli - Full-Stack Designer
 * Franklin Godoy - Full-Stack Designer (Product Owner)
+* Benjamin Guzman - Full-Stack Designer
 
 Consultar en [Tabla](https://github.com/almightyShinobi/Proyecto-Metodologias/projects/1) lista de responsabilidades. 
 

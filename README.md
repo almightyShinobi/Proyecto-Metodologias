@@ -49,7 +49,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- Tabla de Contenidos -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -70,9 +70,6 @@
     <li><a href="#planificación-general-del-proyecto">Planificación general del proyecto</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#Contribuciones">Contribuciones</a></li>
-    <li><a href="#licencia">Licencia</a></li>
-    <li><a href="#contato">Contato</a></li>
-    <li><a href="#agradecimientos">Agradecimientos</a></li>
   </ol>
 </details>
 
